@@ -1,0 +1,8 @@
+# Public documentation-only repository. Deny all by default.
+*
+
+# Explicitly approved public files only.
+!/.gitignore
+!/README.md
+!/email-system.png
+!/ECS_Digital_Name_Card_525x295.png
