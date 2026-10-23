@@ -151,22 +151,28 @@ precision-email-system/
 
 ---
 
-## Company Information and Contact
+## Connect with Elite Cybersecurity Specialist
 
-| Detail | Information |
-|---|---|
-| **Company** | ELITE CYBERSECURITY SPECIALIST |
-| **Registration** | 202403184091 (MA0319303-P) |
-| **Founder** | Yuhisern Navaratnam — Cybersecurity Engineer |
-| **Country** | Malaysia |
-| **Email** | [Yuhisern@protonmail.com](mailto:Yuhisern@protonmail.com) |
-| **WhatsApp** | [+60 17-279 1717](https://wa.me/60172791717) |
-| **Company profile** | [ECS official GitHub company profile](https://github.com/elite-cybersecurity-specialist/company-profile) |
-| **Other projects** | [ELITE CYBERSECURITY SPECIALIST on GitHub](https://github.com/elite-cybersecurity-specialist) |
+**Yuhisern Navaratnam** — Cybersecurity Engineer  
+**Elite Cybersecurity Specialist** | Malaysia  
+**SSM:** 202403184091 (MA0319303-P)
 
 <p align="center">
-  <img src="ECS_Digital_Name_Card_525x295.png" alt="ECS digital name card — founder and contact details" width="525">
+  <a href="https://raw.githubusercontent.com/elite-cybersecurity-specialist/battle-hardened-ai/main/assets/ECS_Digital_Name_Card_525x295.png">
+    <img src="https://raw.githubusercontent.com/elite-cybersecurity-specialist/battle-hardened-ai/main/assets/ECS_Digital_Name_Card_525x295.png" alt="Elite Cybersecurity Specialist digital name card — Yuhisern Navaratnam" width="525">
+  </a>
 </p>
+
+- **Email:** [Yuhisern@protonmail.com](mailto:Yuhisern@protonmail.com)
+- **WhatsApp:** [+60 17-279 1717](https://wa.me/60172791717)
+- **GitHub — Company Profile:** [Official repository](https://github.com/elite-cybersecurity-specialist/company-profile)
+- **GitHub — Battle-Hardened AI:** [Official repository](https://github.com/elite-cybersecurity-specialist/battle-hardened-ai)
+- **GitHub — Other Cybersecurity Projects:** [Elite Cybersecurity Specialist](https://github.com/elite-cybersecurity-specialist)
+- **TikTok:** [@yuhisern](https://www.tiktok.com/@yuhisern)
+- **LinkedIn:** [linkedin.com/in/yuhisern](https://www.linkedin.com/in/yuhisern)
+- **X:** [x.com/yuhisern](https://x.com/yuhisern)
+- **LinkedIn — ECS Company:** [Elite Cybersecurity Specialist](https://www.linkedin.com/company/elite-cybersecurity-specialist/)
+- **Official ECS Blog:** [ECS Cybersecurity Articles](https://elite-cybersecurity-specialist.blogspot.com)
 
 <p align="center"><strong>HARDEN. TEST. VERIFY. IMPROVE.</strong></p>
 
